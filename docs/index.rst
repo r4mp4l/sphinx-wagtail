@@ -13,10 +13,21 @@ This is the Dietrichs Documentation site. We render this using the wonderful ope
 
 .. To see what this theme looks like, checkout our :doc:`examples <examples/index>`.
 
-.. note:: This is a draft.
-   This documentation is work in progress.
-   Please contact your local dietrichs support staff for specific assistance.
 
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   installation
+   userinterface
+   usage
+   customizing
+   development
+   examples/index
+   contributing
+   contributors
+   Changelog <changelog>
 
 Indices and tables
 ==================
