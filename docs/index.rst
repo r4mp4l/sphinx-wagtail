@@ -6,25 +6,17 @@
 
 .. BADGES_END
 
-Welcome to "Sphinx Wagtail theme" documentation!
+Welcome to "Dietrichs" documentation!
 ================================================
 
-This is the Sphinx theme used for the official Wagtail docs. All Wagtail-related
-projects are welcome and encouraged to also use this theme! To see what this
-theme looks like, checkout our :doc:`examples <examples/index>`.
+This is the Dietrichs Documentation site. We render this using the wonderful opensource libraries Sphinx.
 
-.. toctree::
-   :maxdepth: 2
-   :titlesonly:
+.. To see what this theme looks like, checkout our :doc:`examples <examples/index>`.
 
-   installation
-   usage
-   customizing
-   development
-   examples/index
-   contributing
-   contributors
-   Changelog <changelog>
+.. note:: This is a draft.
+   This documentation is work in progress.
+   Please contact your local dietrichs support staff for specific assistance.
+
 
 Indices and tables
 ==================
