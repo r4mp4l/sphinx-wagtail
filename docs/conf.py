@@ -19,9 +19,9 @@ source_suffix = {
     '.md': 'markdown',
 }
 master_doc = 'index'
-project = 'Sphinx Wagtail theme'
-copyright = "2022, Wagtail contributors"
-author = "Wagtail"
+project = 'Dietrichs Sample Documentation'
+copyright = "2024"
+author = "G. Rampal"
 # The short X.Y version.
 version = sphinx_wagtail_theme.__version__
 # The full version, including alpha/beta/rc tags.
@@ -33,22 +33,23 @@ todo_include_todos = False
 today_fmt = '%Y-%m-%d %H:%M'
 
 # -- Options for HTML output -------------------------------------------
-html_theme = 'sphinx_wagtail_theme'
+# html_theme = 'sphinx_wagtail_theme'
+html_theme = 'piccolo-theme'
 html_static_path = []
 html_favicon = 'favicon.ico'
 # -- Options for HTMLHelp output ---------------------------------------
-htmlhelp_basename = 'sphinx_wagtail_themedoc'
+htmlhelp_basename = 'Dietrichs'
 # -- Options for LaTeX output ------------------------------------------
 latex_elements = {}
 latex_documents = [
     (master_doc, 'sphinx_wagtail_theme.tex',
-     'Sphinx Wagtail theme documentation',
+     'sadfsdf',
      'Martin Bless', 'manual'),
 ]
 # -- Options for manual page output ------------------------------------
 man_pages = [
     (master_doc, 'sphinx_wagtail_theme',
-     'Sphinx Wagtail theme documentation',
+     'Dietrichs',
      [author], 1)
 ]
 # -- Options for Texinfo output ----------------------------------------
