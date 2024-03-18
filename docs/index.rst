@@ -16,7 +16,7 @@ This is the Dietrichs Documentation site. We render this using the wonderful ope
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :titlesonly:
 
    installation
@@ -24,6 +24,7 @@ This is the Dietrichs Documentation site. We render this using the wonderful ope
    usage
    customizing
    development
+   dietrichs <https://www.dietrichs.com/en>
    examples/index
    contributing
    contributors

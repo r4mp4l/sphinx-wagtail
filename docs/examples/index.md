@@ -18,7 +18,7 @@ inline-styles
 images
 links
 lists
-loading
+How to load positions <loading>
 dietrichs <https://www.dietrichs.com/en>
 nesting/index
 paragraphs
