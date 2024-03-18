@@ -20,9 +20,16 @@ This is the Dietrichs Documentation site. We render this using the wonderful ope
    :titlesonly:
 
    installation
-   logicblocks
-   variables
-   workplanes
+   userinterface
+   usage
+   customizing
+   development
+   How to load positions <loading>
+   dietrichs <https://www.dietrichs.com/en>
+   examples/index
+   contributing
+   contributors
+   Changelog <changelog>
 
 Indices and tables
 ==================
