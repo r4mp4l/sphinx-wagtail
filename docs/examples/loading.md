@@ -1,3 +1,4 @@
+# How to creae and manage loading positions
 
 ## 1. Create a new position and import structure
  1. Create a new building position as per your previous training.   
