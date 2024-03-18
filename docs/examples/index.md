@@ -18,6 +18,7 @@ inline-styles
 images
 links
 lists
+loading
 nesting/index
 paragraphs
 progressive-disclosure
