@@ -20,15 +20,9 @@ This is the Dietrichs Documentation site. We render this using the wonderful ope
    :titlesonly:
 
    installation
-   userinterface
-   usage
-   customizing
-   development
-   dietrichs <https://www.dietrichs.com/en>
-   examples/index
-   contributing
-   contributors
-   Changelog <changelog>
+   logicblocks
+   variables
+   workplanes
 
 Indices and tables
 ==================
